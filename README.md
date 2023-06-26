@@ -1,6 +1,6 @@
 # knue_smart_content
 
-A new Flutter project.
+Smart Content developed for KNUE Graduate school course
 
 ## Getting Started
 
